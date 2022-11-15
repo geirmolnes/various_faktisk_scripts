@@ -1,7 +1,8 @@
 import os
 import youtube_dl
 
-filedir = os.path.join("/Users/geir/Code/facebook_video_downloader/downloads")
+# ADD PATH TO FOLDER
+filedir = os.path.join("")
 
 # Open urls.txt and read the urls
 with open("new_url.txt", "r") as f:
